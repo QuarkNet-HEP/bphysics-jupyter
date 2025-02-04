@@ -4,3 +4,5 @@ vector
 numpy
 matplotlib
 jupyter
+particle
+hepunits
